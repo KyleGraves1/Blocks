@@ -6,3 +6,5 @@ canvas {
     display: block;
     width: 800px;
 }
+
+body {margin: 0; height: 100%; overflow: hidden}
